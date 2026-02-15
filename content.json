@@ -1,0 +1,15 @@
+{
+  "page1": {
+    "title": "Hi mhe malayo ka so muni lg gift ko simo hehe",
+    "subtitle": "I made this little Valentine page just for you.",
+    "button": "click me mommy",
+    "photo": "images/me.jpg",
+    "alt": "My photo"
+  },
+  "page2": {
+    "title": "My Mom",
+    "subtitle": "happy valentines day mommy, I love you so much -Arcel",
+    "photo": "images/mom.jpg",
+    "alt": "Mommy photo"
+  }
+}
